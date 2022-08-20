@@ -1,0 +1,1 @@
+Hello world To rename a file with the File System module,  use the fs.rename() method.The method renames the specified file: This is my text.hhhhhhhhh jhhhhhhhhhhh dddddddd yh wwwwwwwww
